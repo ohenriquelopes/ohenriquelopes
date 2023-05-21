@@ -1,11 +1,12 @@
 
-## Bem-Vindo! Meu nome é Henrique Lopes. Praticando Back-end e infraestrutura!
+## Bem-Vindo! Meu nome é Henrique Lopes. Estudando para Analista de Dados!
 <div align="display: inline_block">
   <a href="https://github.com/ohenriquelopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohenriquelopes&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Hl-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Hl-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Desktop.svg">
   <img align="center" alt="Hl-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Hl-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="center" alt="Hl-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
