@@ -2,7 +2,6 @@
 ## Bem-Vindo! Meu nome é Henrique Lopes. Praticando Back-end e infraestrutura!
 <div align="display: inline_block">
   <a href="https://github.com/ohenriquelopes">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=ohenriquelopes&show_icons=true&theme=radical&hide=contribs,prs"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohenriquelopes&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
