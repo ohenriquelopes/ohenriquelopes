@@ -2,7 +2,7 @@
 ## Bem-Vindo! Meu nome é Henrique Lopes. Praticando Back-end e infraestrutura!
 <div align="display: inline_block">
   <a href="https://github.com/ohenriquelopes">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohenriquelopes&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohenriquelopes&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Hl-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
