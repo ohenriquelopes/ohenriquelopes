@@ -1,5 +1,5 @@
 
-## Bem-Vindo! Meu nome é Henrique Lopes. Estudando para Analista de Dados!
+## Bem-Vindo! Meu nome é Henrique Lopes. Estudando para Desenvolvedor Back-End!
 <div align="display: inline_block">
   <a href="https://github.com/ohenriquelopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohenriquelopes&layout=compact&langs_count=7&theme=radical"/>
