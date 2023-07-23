@@ -5,9 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohenriquelopes&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-##
-
 <div> 
+  <h2>Contato</h2>
   <a href = "mailto:hlopessantos52@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D82424&logo=gmail&logoColor=FFFFFF" target="_blank"></a>
   <a href="https://www.linkedin.com/in/o-henrique-lopes/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=246AD8&logo=gmail&logoColor=FFFFFF" target="_blank"></a>
 
@@ -16,7 +15,7 @@
 [//]: # (**Testing** | [![Selenium]&#40;https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF&#41;]&#40;https://www.selenium.dev/&#41;)
 
 <br>
-<summary><b>🛠️ Tech Stack</b></summary>
+<summary><h2>🛠️ Tech Stack</h2></summary>
   <p>
 
 | **Category** | **Technologies** |
