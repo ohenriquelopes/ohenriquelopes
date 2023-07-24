@@ -8,7 +8,7 @@
 <div> 
   <h2>Contato</h2>
   <a href = "mailto:hlopessantos52@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D82424&logo=gmail&logoColor=FFFFFF" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/o-henrique-lopes/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=246AD8&logo=gmail&logoColor=FFFFFF" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/o-henrique-lopes/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=246AD8&logo=linkedin&logoColor=FFFFFF" target="_blank"></a>
 
 </div>
 
